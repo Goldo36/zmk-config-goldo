@@ -1,0 +1,6 @@
+if SHIELD_GOLDO
+
+config ZMK_KEYBOARD_NAME
+    default "goldo"
+
+endif
