@@ -17,10 +17,10 @@
         
         bt_layer {
             bindings = <
-                &kp_N8    &kp_N8    &kp_N8    &kp_N8    &kp_N8    &kp_N8           &none            &none            &kp_N8           &kp_N8    &kp_N8    &kp_N8    &kp_N8    &kp_N8
-                &kp_N4    &kp_N4    &kp_N4    &kp_N4    &kp_N4    &kp_N4           &none            &none            &kp_N4           &kp_N4    &kp_N4    &kp_N4    &kp_N4    &kp_N4
-                &kp_N1    &kp_N1    &kp_N1    &kp_N1    &kp_N1    &kp_N1           &kp_N1           &bt BT_CLR       &kp_N1           &kp_N1    &kp_N1    &kp_N1    &kp_N1    &kp_N1
-                &kp_N0    &kp_N0    &kp_N0    &kp_N0    &kp_N0    &&bt BT_SEL 0    &&bt BT_SEL 1    &&bt BT_SEL 2    &&bt BT_SEL 3    &kp_N0    &kp_N0    &kp_N0    &kp_N0    &bootloader 
+                &kp_N8    &kp_N8    &kp_N8    &kp_N8    &kp_N8    &kp_N8           &none            &none            &kp_N8    &kp_N8    &kp_N8    &kp_N8    &kp_N8    &kp_N8
+                &kp_N4    &kp_N4    &kp_N4    &kp_N4    &kp_N4    &kp_N4           &none            &none            &kp_N4    &kp_N4    &kp_N4    &kp_N4    &kp_N4    &kp_N4
+                &kp_N1    &kp_N1    &kp_N1    &kp_N1    &kp_N1    &kp_N1           &kp_N1           &bt BT_CLR       &kp_N1    &kp_N1    &kp_N1    &kp_N1    &kp_N1    &kp_N1
+                &kp_N0    &kp_N0    &kp_N0    &kp_N0    &kp_N0    &&bt BT_SEL 0    &&bt BT_SEL 1    &&bt BT_SEL 2    &kp_N0    &kp_N0    &kp_N0    &kp_N0    &kp_N0    &bootloader 
             >;
         };
     };
